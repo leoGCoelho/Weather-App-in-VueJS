@@ -1,6 +1,10 @@
 # Weather-App-in-VueJS
 ## Introduction
 A basic weather app made in Vue.JS framework and OpenWeatherMap API.
+
+## Getting Started
+  - **To run the server:** npm run serve
+
 ## Project Stages
   - **02/03/2020:** The project's basis foundation was created with the current weather, world location target searcher and just 1 language avaliable (portuguese);
   
